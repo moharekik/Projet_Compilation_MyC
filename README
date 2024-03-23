@@ -1,0 +1,13 @@
+To be ran be default as
+
+./run ExN
+
+with ExN.myc in Examples
+creating ExN_pcode.c
+
+// on s'est arrêté à la partie VI , les exemples de cette partie marchent bien mais 
+// la production du code pour cette  présente encore quelques bugs dans le cas general
+
+Exemple d'éxecution:
+  - $make
+  - $ ./lang < Examples/Ex8.myc

@@ -1,0 +1,3 @@
+# bin/bash
+
+./lang < Examples/$1.myc > Examples/$1_pcode.c
